@@ -31,6 +31,6 @@ This is a fully functional **Admin Panel** for managing luxury cabin bookings, b
 
 ## 📌 Summary
 
-This project demonstrates the effective use of **React hooks**, **custom hooks**, **React Context**, **React Query** for server state management, and **Supabase** for backend services like database and authentication. It also includes responsive UI, dark mode, and data visualization to provide admins a seamless cabin booking management experience.
+This project demonstrates the effective use of **React hooks**, **custom hooks**, **React Context**, **React Query** for server state management, and **Supabase** for backend services like database and authentication. It also includes dark mode and data visualization to provide admins a seamless cabin booking management experience.
 
 ---
