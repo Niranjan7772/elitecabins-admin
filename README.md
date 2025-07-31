@@ -1,6 +1,6 @@
 # 🏕️ Elite Cabins Admin Panel
 
-This is a fully functional **Admin Panel** for managing luxury cabin bookings, built using **React**, **React Query**, and **Supabase**. The platform allows authenticated admin users to manage every aspect of the booking system through a modern and responsive dashboard.
+This is a fully functional **Admin Panel** for managing luxury cabin bookings, built using **React**, **React Query**, and **Supabase**. The platform allows authenticated admin users to manage every aspect of the booking system through a modern dashboard.
 
 ---
 
